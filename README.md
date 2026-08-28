@@ -2,6 +2,8 @@
 
 A full-stack e-commerce application with a customer storefront, shopping cart, checkout flow, and admin dashboard for managing products and orders.
 
+Live Demo: https://ecommerce-app-frontend-indol-seven.vercel.app/
+
 ## Overview
 
 This project is split into three apps:
